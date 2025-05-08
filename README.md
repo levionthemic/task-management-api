@@ -26,11 +26,11 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/levionthemic/task-management-web.git
+   git clone https://github.com/levionthemic/task-management-api.git
    ```
 2. **Install dependencies**:
    ```bash
-   cd task-management-web
+   cd task-management-api
    yarn
    ```
 3. **Set up environment variables**:
